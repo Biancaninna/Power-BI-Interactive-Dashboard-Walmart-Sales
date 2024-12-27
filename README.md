@@ -5,6 +5,15 @@ You can see the final result of the Power BI Dashboard visualization in this pro
 
    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Walmart-Sales-/blob/5cb76d1b786996992f590dac681b98f9a83ad7e7/Walmart%20Sales%20Interative%20Power%20BI%20Dashboard.pbix)
 
+Power BI dashboard final looks
+> First slide
+
+   ![image alt](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Walmart-Sales/blob/b54ae87cc71b28b3dbe900e8219ed33dc1478f04/Interactive%20Power%20BI%20Dashboard%20slide%201.png)
+
+> Second slide
+
+   ![image alt](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Walmart-Sales/blob/b54ae87cc71b28b3dbe900e8219ed33dc1478f04/Interactive%20Power%20BI%20Dashboard%20slide%202.png)
+   
 ## Steps in Project
 ### Part 1. MySQL
 1. Creating Database
