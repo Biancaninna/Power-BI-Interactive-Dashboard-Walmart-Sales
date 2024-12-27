@@ -1,6 +1,10 @@
 # Walmart Sales Power BI Dashboard
 In this project we will build a Walmart Sales Dynamic and Interactive Power BI Dashboard, we will use MySQL and Power BI tools which are currently being used in the market and there is a very high demand for these particular tools. We will use some advanced functions, some advanced Dax functions, conditional filtering and conditional formatting, and also action filters. Walmart sales data in this project is obtained from Kaggle.com.
 
+You can see the final result of the Power BI Dashboard visualization in this project by clicking the badges below.
+
+   [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Power-BI-Interactive-Dashboard-Walmart-Sales-/blob/5cb76d1b786996992f590dac681b98f9a83ad7e7/Walmart%20Sales%20Interative%20Power%20BI%20Dashboard.pbix)
+
 ## Steps in Project
 ### Part 1. MySQL
 1. Creating Database
@@ -132,6 +136,4 @@ Before building the visualization, we will create all our measures from KPI's re
 6. Monthly Trend for Total Orders
    To visualize the monthly trend for total orders, we only need to do the same steps as visualizing the daily trend for total orders.
 
-After doing data processing, we will visualize Walmart Sales data. You can see the final result of the Power BI Dashboard visualization in this project by clicking the badges below.
 
-   [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/Biancaninna/Walmart-Sales-Dashboard-Project/blob/4eb770dea5987817b4ba210446348c5ebaad72cf/DashboardPowerBI.pbix)
